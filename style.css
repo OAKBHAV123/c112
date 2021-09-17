@@ -1,0 +1,77 @@
+body
+{
+font-family: 'Oswald', sans-serif;
+background-color: aqua;
+}
+
+.header_div
+{
+    background-color:blue;
+    color: bisque;
+}
+
+.header_div img{
+    width: 100px;
+}
+
+.Main_div
+{
+    background-color: blueviolet;
+    padding: 10px;
+    margin-top: 15px;
+    border: cyan 4px dashed;
+}
+
+.Main_div label
+{
+    background-color: darkcyan;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 7px 10px greenyellow;
+}
+
+#camera,#result
+{
+border: lawngreen groove 5px;
+width: 310px;
+height: 300px;
+box-shadow:6px 8px 12px green ;
+}
+
+.Main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    border: 2px double;
+    box-shadow: 7px 9px 14px rgb(38, 160, 38);
+}
+
+.footer_div
+{
+    margin-bottom: 50px;
+}
+
+.footer_div h4 
+{
+    background-color: azure;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 18px lightcyan;
+}
+
+.footer_div img 
+{
+width: 70px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: lightskyblue;
+    background-color: lightslategrey;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
